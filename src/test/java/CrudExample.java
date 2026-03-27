@@ -6,7 +6,7 @@ import java.util.Map;
 public class CrudExample {
     public static void main(String[] args) {
         String baseUrl = "https://jsonplaceholder.typicode.com/posts";
-        System.out.print("ashraf ali");
+        System.out.print("ashraf ali khan");
 
         // GET all posts
         given()
